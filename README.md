@@ -9,6 +9,10 @@ Tenho experiência em front-end desde o HTML5 ao Illustrator e back-end em PHP, 
 ----
 
 ## 🚀 Minhas Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGuimaraesSilva&theme=tokyonight&layout=compact)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoGuimaraesSilva&repo=pokedex&theme=tokyonight)](https://github.com/BrunoGuimaraesSilva/pokedex) -->
+
 <strong>Front-end:</strong>
 <br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -33,7 +37,7 @@ Tenho experiência em front-end desde o HTML5 ao Illustrator e back-end em PHP, 
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoGuimaraesSilva&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoGuimaraesSilva&show_icons=true&theme=tokyonight&layout=compact)
 
 
 ## :earth_americas: Onde me encontrar:
