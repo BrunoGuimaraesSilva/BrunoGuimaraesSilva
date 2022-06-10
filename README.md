@@ -28,4 +28,4 @@ I'm a software engineer, and I live in Brazil.
 
 ## Find me 🔍
 
-[![Linkedin](https://img.shields.io/badge/Gustavo%20-blue?-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofreze)
+[![Linkedin](https://img.shields.io/badge/Gustavo%20-blue?-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-webdev/)
