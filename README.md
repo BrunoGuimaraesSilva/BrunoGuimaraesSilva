@@ -3,9 +3,6 @@
 - Sobre mim: 
 Sempre busco a melhor forma para resolver problemas, todo dia busco aprender uma coisa nova.
 
-- Sobre minhas experiências:
-Tenho experiência em front-end desde o HTML5 ao Illustrator e back-end em PHP, manipulação do git, Docker, entre outros, familiaridade em vários sistemas operacionais como Windows, Linux e Mac OS, além de ter conhecimento em inglês.
-
 ----
 
 ## 🚀 Minhas Skills
