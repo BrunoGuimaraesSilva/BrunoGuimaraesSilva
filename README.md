@@ -1,10 +1,10 @@
 ## Hi, my name is <strong>Bruno Guimarães da Silva!</strong>
 
-- About me: 
+- <strong>About Me:</strong><br/>
 I am a full-stack developer with a strong focus on front-end development. I specialize in creating seamless, responsive, and engaging user experiences, while also having a solid understanding of back-end technologies. I enjoy turning ideas into functional and visually appealing applications, always striving to stay updated with the latest industry trends and best practices.
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGuimaraesSilva&theme=tokyonight&layout=compact)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoGuimaraesSilva&repo=pokedex&theme=tokyonight)](https://github.com/BrunoGuimaraesSilva/pokedex) -->
@@ -32,11 +32,11 @@ I am a full-stack developer with a strong focus on front-end development. I spec
 
 
 ---
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my github
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoGuimaraesSilva&show_icons=true&theme=tokyonight&layout=compact)
 
 
-## :earth_americas: Onde me encontrar:
+## :earth_americas: Where you'll find me:
 [![Linkedin: Bruno Guimarães da Silva](https://img.shields.io/badge/-Bruno_Guimarães_da_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-webdev/)](https://www.linkedin.com/in/bruno-webdev/)
 [![Gmail Badge](https://img.shields.io/badge/Bruno_Guimarães_da_Silva-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.sil16441@gmail.com)](mailto:bruno.sil16441@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/BrunoGuimaraesSilva?label=BrunoGuimaraesSilva&style=social)](https://github.com/BrunoGuimaraesSilva)
