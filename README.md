@@ -1,8 +1,7 @@
-## Olá, meu nome é <strong>Bruno Guimarães da Silva!</strong>
+## Hi, my name is <strong>Bruno Guimarães da Silva!</strong>
 
-- Sobre mim: 
-Sempre busco a melhor forma para resolver problemas, todo dia busco aprender uma coisa nova.
-
+- About me: 
+I am a full-stack developer with a strong focus on front-end development. I specialize in creating seamless, responsive, and engaging user experiences, while also having a solid understanding of back-end technologies. I enjoy turning ideas into functional and visually appealing applications, always striving to stay updated with the latest industry trends and best practices.
 ----
 
 ## 🚀 Minhas Skills
